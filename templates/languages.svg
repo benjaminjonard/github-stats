@@ -58,12 +58,6 @@ li {
   animation: slideIn 2s ease-in-out forwards;
 }
 
-@keyframes slideIn {
-  to {
-    transform: translateX(0);
-  }
-}
-
 div.ellipsis {
   height: 100%;
   overflow: hidden;
