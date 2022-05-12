@@ -73,11 +73,6 @@ tr {
   fill: #8b949e;
 }
 
-@keyframes slideIn {
-  to {
-    transform: translateX(0);
-  }
-}
 </style>
 <g>
 <rect x="5" y="5" id="background" />
